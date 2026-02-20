@@ -1,0 +1,24 @@
+     #Nox{
+            color: blueviolet;
+            background-color: yellow;
+            font-size: 20px;
+            opacity:0.5;
+        }
+        .red{
+            color: crimson;
+            font-size:40px;
+        }
+        .blue{
+            color: aqua;
+            font-size: 30px;
+        }
+        h1{
+            color: white;
+            background-color: black;
+        }
+    #Nox .ig{
+            color: chartreuse;
+        }
+    #Nox img{
+        opacity: 1
+    }
