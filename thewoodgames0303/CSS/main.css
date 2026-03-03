@@ -1,0 +1,38 @@
+html {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    -webkit-box-sizing: inherit;
+    -moz-box-sizing: inherit;
+    box-sizing: inherit;
+}
+
+.main {
+    width: 900px;
+    /* margin: 0 auto; 置中速寫 */
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aqua;
+}
+
+.main>header {
+    text-align: center;行內元素置中
+}
+
+
+/* .main>header>img {
+    width: 200px;
+} */
+
+img.logo {
+    width: 200px;
+    /* display: block;
+    margin:0 auto;塊級元素置中 */
+}
